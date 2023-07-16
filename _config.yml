@@ -20,7 +20,7 @@ title                    : "가리일기"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Yonggarichicken"
-description              : "An amazing website."
+description              : "으메이징"
 url                      : "https://harimyong.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
