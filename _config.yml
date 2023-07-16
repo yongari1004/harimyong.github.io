@@ -108,7 +108,7 @@ author:
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Hello Welcome :)"
   location         : "South Korea"
-  email            : "dydals1004@hanyang.co.kr"
+  email            : "dydals1004@hanyang.ac.kr"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
