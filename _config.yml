@@ -106,9 +106,9 @@ analytics:
 author:
   name             : "Yonggarichicken"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "**곽용민**입니다"
-  location         : #
-  email            :
+  bio              : "Hello Welcome :)"
+  location         : "South Korea"
+  email            : "dydals1004@hanyang.co.kr"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
