@@ -112,7 +112,7 @@ author:
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "dydals1004@hanyang.ac.kr"
+      # url: "dydals1004@hanyang.ac.kr"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       url: "https://harimyong.github.io/"
@@ -127,7 +127,7 @@ author:
       # url: "https://github.com/harimyong"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/yongchicken"
+      # url: "https://instagram.com/yongchicken"
 
 # Site Footer
 footer:
