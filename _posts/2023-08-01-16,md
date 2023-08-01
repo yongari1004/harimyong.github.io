@@ -1,0 +1,17 @@
+---
+title: "2023-08-01 16일차"
+categories:
+  - 코딩테스트
+  - 백준
+tags:
+  - 코딩테스트
+  - 백준
+  - DP
+---
+<h2>코딩테스트 - (DP - 1로 만들기 2)</h2>
+
+---
+<script src="https://gist.github.com/harimyong/e8f38ad64058835caf180e4f740abefc.js"></script>
+<p>1로 만들기에서 경로 추적해서 추적한 것 중 하나만 출력하면 된다. 파이썬은 경로 추적하는데 쓰기 편하다. 좋다 좋다.</p>
+<br><br>
+<a href="https://www.acmicpc.net/problem/12852">문제 주소<a>
